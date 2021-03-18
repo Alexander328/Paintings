@@ -1,7 +1,7 @@
 # Paintings
 
 
-[About me(about.md
+[About me(about.md)
 
 
 
