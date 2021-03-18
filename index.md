@@ -1,9 +1,8 @@
 # Paintings
 
 
-
-[About me.(about.md)
-
+[About me(about.md
 
 
-[Commisions(commissions.md).
+
+[Commisions(commissions.md)
