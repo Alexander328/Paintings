@@ -7,3 +7,8 @@
 
 
 [Commissions](commissions.md)
+
+
+
+
+[Paintings](paintings.md)
