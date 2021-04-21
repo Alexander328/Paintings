@@ -1,4 +1,4 @@
-# Paintings
+# Alex's Art
 
 
 [About me](about.md)
