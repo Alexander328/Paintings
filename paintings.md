@@ -1,6 +1,11 @@
 # Paintings
 ![IMG-2389](https://user-images.githubusercontent.com/70280999/115583151-de127100-a286-11eb-89d6-4a6bd8ee4048.jpg)
-
+# Red-Eyed Tree Frog
 ![waxwing](https://user-images.githubusercontent.com/70280999/115585084-8f65d680-a288-11eb-8897-955bad8369f9.jpg)
-
+# Cedar Waxwing
 ![secratarybird](https://user-images.githubusercontent.com/70280999/115585120-95f44e00-a288-11eb-90f3-3e7787e51919.jpg)
+# Secretary Bird
+![IMG-4954](https://user-images.githubusercontent.com/70280999/115585854-3c405380-a289-11eb-8969-a240c2d95c9f.jpg)
+# Harpy Eagle
+![IMG-3432](https://user-images.githubusercontent.com/70280999/115585887-42363480-a289-11eb-8e83-f8a353b833d1.jpg)
+# Steller's Jay
