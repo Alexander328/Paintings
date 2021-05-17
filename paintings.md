@@ -9,3 +9,5 @@
 # Harpy Eagle
 ![IMG-3432](https://user-images.githubusercontent.com/70280999/115585887-42363480-a289-11eb-8e83-f8a353b833d1.jpg)
 # Steller's Jay
+![IMG-5379](https://user-images.githubusercontent.com/70280999/118423291-ebeac480-b681-11eb-8e4a-fd27699f653e.jpg)
+# Resplendent Quetzal
