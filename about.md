@@ -1,2 +1,2 @@
 # About Me
-### Alex is great and very cool
+### I am a teenage artist named Alex and I live in Utah. I primarily paint birds and landscapes with acrylic paints, though I have been experimenting with other mediums and subjects recently. I find inspiration in Utah's many landscapes and diverse animal species, though I also paint things from out of the state that I find compelling, such as a quetzal. I also enjoy photography and digital art, though my skills in those areas are much less developed than my painting skills.
