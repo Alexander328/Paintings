@@ -1,4 +1,4 @@
-#Landscape Paintings
+# Landscape Paintings
 ### Mount Olympus
 ![image](https://user-images.githubusercontent.com/70280999/118547061-15553000-b716-11eb-9fc9-0891cda5da6e.png)
 ### Ranger Station
