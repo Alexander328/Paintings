@@ -1,2 +1,2 @@
 # About Me
-#Alex is great and very cool
+Alex is great and very cool
